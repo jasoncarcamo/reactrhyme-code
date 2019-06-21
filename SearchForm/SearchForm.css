@@ -1,0 +1,58 @@
+#form-section{
+    width: 80%;
+    margin: 10% auto;
+    font-weight: 900;
+    
+}
+
+form {
+    padding: 0;
+}
+
+
+fieldset{
+    height: auto;
+    width: 90%;
+    margin: 0 auto;
+    color: yellow;
+    background-color: lightskyblue;
+}
+
+input{
+    display: block;
+    width: 40%;
+    height: 2em;
+    margin: 1% auto 2% auto;
+    font-size: 1em;
+}
+
+
+select{
+    display: block;
+    margin: 1.5% auto;
+    height: 2em;
+    width: auto;
+    font-size: 1em;
+}
+
+label{
+    display: block;
+    width: 50%;
+    margin: 2% auto;
+}
+
+button{
+    display: block;
+    width: 6em;
+    height: 3.5em;
+    margin: 7% auto;
+    padding: 0;
+    border-radius: 5em;
+    border: .1em solid blue;
+    background-color: pink;
+    font-size: .7em;
+}
+
+button:hover{
+    border: .1em solid rgb(135, 233, 250);
+}

@@ -1,0 +1,12 @@
+body {
+  margin: 0;
+  padding:0;
+  font-size: 1.4em;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+*{
+  font-family: irish-grover, sans-serif;
+}
+
+
